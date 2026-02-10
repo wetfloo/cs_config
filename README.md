@@ -16,13 +16,13 @@ set CSGOFOLDER="C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Glo
 Next, either clone this repo with SSH key
 
 ```bat
-git clone git@github.com:wetfloo/cs_config.git %userprofile%\cs_config
+git clone git@github.com:wetfloo/cs_config.git "%userprofile%\cs_config"
 ```
 
 Or with HTTPS
 
 ```bat
-git clone https://github.com/wetfloo/cs_config.git %userprofile%\cs_config
+git clone https://github.com/wetfloo/cs_config.git "%userprofile%\cs_config"
 ```
 
 Finally, link it to your game's directory
