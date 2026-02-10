@@ -10,7 +10,7 @@ For example, mine is `C:\Program Files (x86)\Steam\steamapps\common\Counter-Stri
 Open `cmd` (`Win+R`, type `cmd`), and type
 
 ```bat
-set CSGOFOLDER="C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive"
+set CSGOFOLDER=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
 ```
 
 Next, either clone this repo with SSH key
