@@ -2,11 +2,11 @@ root = true
 
 [*]
 charset = utf-8
-end_of_line = crlf
+end_of_line = lf
 insert_final_newline = true
 indent_style = tab
 tab_width = 4
 trim_trailing_characters = true
 
-[*.{md,editorconfig}]
-end_of_line = lf
+[*.cfg]
+end_of_line = crlf
