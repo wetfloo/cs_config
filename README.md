@@ -28,7 +28,7 @@ git clone https://github.com/wetfloo/cs_config.git "%userprofile%\cs_config"
 Finally, link it to your game's directory
 
 ```bat
-mklink /H "%CSGOFOLDER%\game\csgo\cfg\autoexec.cfg" "%userprofile%\cs_config\autoexec.cfg"
+mklink /H "%CSGOFOLDER%\game\csgo\cfg\autoexec.cfg" "%userprofile%\cs_config\cs2\autoexec.cfg"
 ```
 
 Make sure to add the following to the game's launch options
