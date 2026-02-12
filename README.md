@@ -8,7 +8,7 @@ Find your CS installation directory.
 For example, mine is `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`.
 Additionally, you'll need to set the directory where you want to store this repository, for example, `%userprofile%\cs_config`.
 
-Open `cmd` (`Win+R`, type `cmd`), and set the environment variables:
+Open `cmd` (`Win+R`, type `cmd`), **preferably as an administrator to make a symlink** and set the environment variables:
 
 ```bat
 set CSGOFOLDER=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
@@ -29,16 +29,16 @@ git clone https://github.com/wetfloo/cs_config.git "%CSGOCONFIGFOLDER%"
 
 or just download it and unpack it as outlined above.
 
-Finally, link it to your game's directory:
+Finally, link it to your game's directory (Windows doesn't allow regular users to make symlinks for some reason):
 
 ```bat
-mklink /H "%CSGOFOLDER%\game\csgo\cfg\autoexec.cfg" "%CSGOCONFIGFOLDER%\cs2\autoexec.cfg"
+mklink /D "%CSGOFOLDER%\game\csgo\cfg\cs2cfg" "%CSGOCONFIGFOLDER%\cs2cfg"
 ```
 
 Make sure to add the following to the game's launch options:
 
 ```
-+exec autoexec.cfg
++exec cs2cfg/autoexec.cfg
 ```
 
 You're set!
