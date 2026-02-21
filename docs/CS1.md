@@ -6,7 +6,8 @@ For example, mine is `C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cs
 Now, set the environment variable to match that directory:
 
 ```bat
-set CS1FOLDER=C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike```
+set CS1FOLDER=C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike
+```
 
 Link the repo's config directory to game's directory:
 
