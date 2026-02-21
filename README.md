@@ -25,5 +25,5 @@ git clone https://github.com/wetfloo/cs_config.git "%CSCONFIGFOLDER%"
 or just download it and unpack it as outlined above.
 
 Finally, link it to your games' directory (Windows doesn't allow regular users to make symlinks for some reason). To do this, **check out each game's specific instructions:**
-- (Counter-Strike 2)[docs/CS2.md]
-- (Counter-Strike 1.6)[docs/CS1.md]
+- [Counter-Strike 2](docs/CS2.md)
+- [Counter-Strike 1.6](docs/CS1.md)
