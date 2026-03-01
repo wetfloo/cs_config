@@ -19,7 +19,7 @@ git clone --recurse-submodules git@github.com:wetfloo/cs_config.git "%CSCONFIGFO
 or with HTTPS,
 
 ```bat
-git clone https://github.com/wetfloo/cs_config.git "%CSCONFIGFOLDER%"
+git clone --recurse-submodules https://github.com/wetfloo/cs_config.git "%CSCONFIGFOLDER%"
 ```
 
 or just download it and unpack it as outlined above.
