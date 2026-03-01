@@ -1,5 +1,7 @@
 ## CS2 installation
 
+Follow the [previous installation instructions.](../README.md)
+
 Find your CS2 installation directory.
 For example, mine is `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`.
 
