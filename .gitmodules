@@ -1,0 +1,3 @@
+[submodule "cs2cfg/vendor/desubtick_autoexec"]
+	path = cs2cfg/vendor/desubtick_autoexec
+	url = https://github.com/GabrielMB108/autoexec.git
