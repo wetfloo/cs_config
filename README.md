@@ -13,7 +13,7 @@ set CSCONFIGFOLDER=%userprofile%\cs_config
 Next, either clone this repo with SSH key,
 
 ```bat
-git clone git@github.com:wetfloo/cs_config.git "%CSCONFIGFOLDER%"
+git clone git@github.com:wetfloo/cs_config.git --recurse-submodules "%CSCONFIGFOLDER%"
 ```
 
 or with HTTPS,
