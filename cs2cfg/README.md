@@ -20,5 +20,7 @@ mklink /D "%CS2FOLDER%\game\csgo\cfg\cs2cfg" "%CSCONFIGFOLDER%\cs2cfg"
 Make sure to add the following to the game's launch options:
 
 ```
-+exec cs2cfg/autoexec.cfg
++exec cs2cfg/autoexec.cfg -allow_third_party_software
 ```
+
+`-allow_third_party_software` here supposedly allows for OBS, RTSS and other software to access the game.
