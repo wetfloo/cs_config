@@ -3,7 +3,8 @@
 Follow the [previous installation instructions.](../README.md)
 
 Find your CS2 installation directory.
-For example, mine is `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`.
+For example, mine is
+`C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive`.
 
 Now, set the environment variable to match that directory:
 
@@ -23,9 +24,12 @@ Make sure to add the following to the game's launch options:
 +exec cs2cfg/autoexec.cfg -allow_third_party_software
 ```
 
-`-allow_third_party_software` here supposedly allows for OBS, RTSS, and other software to access the game.
+`-allow_third_party_software` here supposedly allows
+for OBS, RTSS, and other software to access the game.
 
-`-autoconfig` can be used to reset the game's configuration to defaults. Beware, this will also reset your graphics settings, which are not controllable via cvars.
+`-autoconfig` can be used to reset the game's configuration to defaults.
+Beware, this will also reset your graphics settings,
+which are not controllable via cvars.
 
 ## Tips and tricks
 
@@ -50,16 +54,25 @@ All the binds below are mapped to the numpad, unless specified otherwise.
 
 ### Desubtick toggle
 
-`desub_disable` will **disable desubtick** for movement, while `desub_enable` will enable it, supposedly improving the movement consistency. Desubticking is disabled by default, aligning with the default configuration of CS2.
+`desub_disable` will **disable desubtick** for movement,
+while `desub_enable` will enable it,
+supposedly improving the movement consistency.
+Desubticking is disabled by default,
+aligning with the default configuration of CS2.
 
 ### Lineup crosshair
 
-By default, `q` toggles radar zoom, however, when holding down left and/or right mouse button(s) with a grenade equipped, you can press `q` to toggle lineup crosshair, that will only be active until you release the buttons mentioned above.
+By default, `q` toggles radar zoom, however, when holding down
+**left** and/or **right** mouse button(s) with a grenade equipped,
+you can press `q` to toggle lineup crosshair,
+that will only be active until you release the buttons mentioned above.
 
 ### Quick-drop the bomb
 
-Press `j` to drop the bomb and notify your teammates with a text message. Dropping the bomb in this manner will switch you back to your knife.
+Press `j` to drop the bomb and notify your teammates with a text message.
+Dropping the bomb in this manner will switch you back to your knife.
 
 ### Local practice
 
-`END` will restart the server with a special practice config. `p` allows you to toggle nocli*p*, and `\` will clear any thrown utility.
+`END` will restart the server with a special practice config.
+`p` allows you to toggle nocli*p*, and `\` will clear any thrown utility.

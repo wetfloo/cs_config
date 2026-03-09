@@ -3,7 +3,8 @@
 Follow the [previous installation instructions.](../README.md)
 
 Find your CS 1.6 installation directory.
-For example, mine is `C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike`.
+For example, mine is
+`C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike`.
 
 Now, set the environment variable to match that directory:
 
