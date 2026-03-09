@@ -62,10 +62,11 @@ aligning with the default configuration of CS2.
 
 ### Lineup crosshair
 
-By default, `q` toggles radar zoom, however, when holding down
+By default, `q` toggles radar zoom; however, when holding down
 **left** and/or **right** mouse button(s) with a grenade equipped,
-you can press `q` to toggle lineup crosshair,
-that will only be active until you release the buttons mentioned above.
+you can press `q` to toggle lineup crosshair.
+This crosshair will only be active
+until you release the buttons mentioned above.
 
 ### Quick-drop the bomb
 
