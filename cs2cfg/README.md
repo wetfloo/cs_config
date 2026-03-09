@@ -44,7 +44,7 @@ All the binds below are mapped to the numpad, unless specified otherwise.
 | `0`                         | Defuse kits                                     |
 | `-`                         | Kevlar vest, **no helmet**                      |
 | `+`                         | Kevlar vest, **with helmet**                    |
-| `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, *modified* |
+| `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, *modified*) |
 
 ### Desubtick toggle
 
