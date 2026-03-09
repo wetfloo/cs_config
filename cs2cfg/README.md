@@ -25,7 +25,7 @@ Make sure to add the following to the game's launch options:
 
 `-allow_third_party_software` here supposedly allows for OBS, RTSS, and other software to access the game.
 
-`-autoconfig` can be used to reset game's configuration to defaults. Beware, this will also reset your graphics settings, which are not controllable via cvars.
+`-autoconfig` can be used to reset the game's configuration to defaults. Beware, this will also reset your graphics settings, which are not controllable via cvars.
 
 ## Tips and tricks
 
