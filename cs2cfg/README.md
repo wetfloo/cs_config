@@ -44,7 +44,7 @@ All the binds below are mapped to the numpad, unless specified otherwise.
 | `0`                         | Defuse kits                                     |
 | `-`                         | Kevlar vest, **no helmet**                      |
 | `+`                         | Kevlar vest, **with helmet**                    |
-| `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, _modified_ |
+| `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, *modified* |
 
 ### Desubtick toggle
 
@@ -60,4 +60,4 @@ Press `j` to drop the bomb and notify your teammates with a text message. Droppi
 
 ### Local practice
 
-`END` will restart the server with a special practice config. `p` allows you to toggle nocli_p_, and `\` will clear any thrown utility.
+`END` will restart the server with a special practice config. `p` allows you to toggle nocli*p*, and `\` will clear any thrown utility.
