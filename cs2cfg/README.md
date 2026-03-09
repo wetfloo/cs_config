@@ -33,20 +33,20 @@ Make sure to add the following to the game's launch options:
 
 All the binds below are mapped to the numpad, unless specified otherwise.
 
-| Key                         | Buy                                             |
-| --------------------------- | ----------------------------------------------- |
-| `1`                         | Default rifle (M4A4/AK47)                       |
-| `2`                         | AWP                                             |
-| `3`                         | Force buy rifle (FAMAS/Galil AR)                |
-| `4`                         | Force buy SMG (MP9/MAC-10)                      |
-| `5`                         | Desert Eagle                                    |
-| `6`                         | Five-SeveN/Tec-9                                |
-| `8`                         | Smoke + Flashbang                               |
-| `9`                         | Smoke, HE, Molotov, Flash (in that order)       |
-| `0`                         | Defuse kits                                     |
-| `-`                         | Kevlar vest, **no helmet**                      |
-| `+`                         | Kevlar vest, **with helmet**                    |
-| `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, *modified*) |
+| Key                         | Buy                                                    |
+| --------------------------- | ------------------------------------------------------ |
+| `1`                         | Default rifle (M4A4/AK47)                              |
+| `2`                         | AWP                                                    |
+| `3`                         | Force buy rifle (FAMAS/Galil AR)                       |
+| `4`                         | Force buy SMG (MP9/MAC-10)                             |
+| `5`                         | Desert Eagle                                           |
+| `6`                         | Five-SeveN/Tec-9                                       |
+| `8`                         | Smoke + Flashbang                                      |
+| `9`                         | Smoke, HE, Molotov, Flashbang x2 (in that order)       |
+| `0`                         | Defuse kits                                            |
+| `-`                         | Kevlar vest, **no helmet**                             |
+| `+`                         | Kevlar vest, **with helmet**                           |
+| `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, *modified*)       |
 
 ### Desubtick toggle
 
