@@ -24,3 +24,40 @@ Make sure to add the following to the game's launch options:
 ```
 
 `-allow_third_party_software` here supposedly allows for OBS, RTSS, and other software to access the game.
+
+## Tips and tricks
+
+### Quick buy
+
+All the binds below are mapped to the numpad, unless specified otherwise.
+
+| Key                         | Buy                                             |
+| --------------------------- | ----------------------------------------------- |
+| `1`                         | Default rifle (M4A4/AK47)                       |
+| `2`                         | AWP                                             |
+| `3`                         | Force buy rifle (FAMAS/Galil AR)                |
+| `4`                         | Force buy SMG (MP9/MAC-10)                      |
+| `5`                         | Desert Eagle                                    |
+| `6`                         | Five-SeveN/Tec-9                                |
+| `8`                         | Smoke + Flashbang                               |
+| `9`                         | Smoke, HE, Molotov, Flash (in that order)       |
+| `0`                         | Defuse kits                                     |
+| `-`                         | Kevlar vest, **no helmet**                      |
+| `+`                         | Kevlar vest, **with helmet**                    |
+| `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, _modified_ |
+
+### Desubtick toggle
+
+`desub_disable` will **disable desubtick** for movement, while `desub_enable` will enable it, supposedly improving the movement consistency. Desubticking is disabled by default, aligning with the default configuration of CS2.
+
+### Lineup crosshair
+
+By default, `q` toggles radar zoom, however, when holding down left and/or right mouse button(s) with a grenade equipped, you can press `q` to toggle lineup crosshair, that will only be active until you release the buttons mentioned above.
+
+### Quick-drop the bomb
+
+Press `j` to drop the bomb and notify your teammates with a text message. Dropping the bomb in this manner will switch you back to your knife.
+
+### Local practice
+
+`END` will restart the server with a special practice config. `p` allows you to toggle nocli_p_, and `\` will clear any thrown utility.
