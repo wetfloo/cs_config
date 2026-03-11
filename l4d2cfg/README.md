@@ -23,3 +23,5 @@ Make sure to add the following to the game's launch options:
 ```
 +exec l4d2cfg/autoexec.cfg
 ```
+
+`-novid` can be used to skip the game's intro cinematics.
