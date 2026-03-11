@@ -55,8 +55,8 @@ All the binds below are mapped to the numpad, unless specified otherwise.
 
 ### Desubtick toggle
 
-`desub_disable` will **disable desubtick** for movement,
-while `desub_enable` will enable it,
+`ex_desub_off` will **disable desubtick** for movement,
+while `ex_desub_on` will enable it,
 supposedly improving the movement consistency.
 Desubticking is disabled by default,
 aligning with the default configuration of CS2.
