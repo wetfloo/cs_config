@@ -33,6 +33,34 @@ which are not controllable via cvars.
 
 ## Tips and tricks
 
+### Useful commands
+
+#### Toggle commands
+
+There are three versions of each *toggle command*:
+`on`, `off` and `toggle`. For example, for `voice_` command prefix
+there are `voice_on`, `voice_off` and `voice_toggle`.
+
+| Command              | Explanation                                           | Default value |
+| -------------------- | ----------------------------------------------------- | ------------- |
+| `voice_*`            | Controls voice state                                  | `on`          |
+| `music_*`            | Controls music state                                  | `on`          |
+| `volume_*`           | Controls master volume state                          | `on`          |
+| `crosshair_recoil_*` | Controls if the crosshair should follow recoil or not | `off`         |
+| `crosshair_util_*`   | Lineup crosshair. Explanation(#lineup-crosshair)      | `off`         |
+| `desub_*`            | Performs de-subticking                                | `off`         |
+
+#### Other commands
+
+Just your normal everyday commands that you might want to consider.
+
+| Command      | Explanation                                                                    |
+| ------------ | ------------------------------------------------------------------------------ |
+| `reexec`     | Reload the current `autoexec.cfg`, pulling all the changes into the game       |
+| `disc`       | Disconnect & reload current config                                             |
+| `practice`   | Restart the server with `sv_cheats` set to `true`, and other helpful settings  |
+| `clear_util` | Removes all the utility from the map                                           |
+
 ### Quick buy
 
 All the binds below are mapped to the numpad, unless specified otherwise.
@@ -53,14 +81,6 @@ All the binds below are mapped to the numpad, unless specified otherwise.
 | `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, *modified*) |
 | `DEL`(**not a numpad key**) | Sell back all (that's possible to sell)          |
 
-### Desubtick toggle
-
-`desub_off` will **disable desubtick** for movement,
-while `desub_on` will enable it,
-supposedly improving the movement consistency.
-Desubticking is disabled by default,
-aligning with the default configuration of CS2.
-
 ### Lineup crosshair
 
 By default, `q` toggles radar zoom; however, when holding down
@@ -76,5 +96,4 @@ Dropping the bomb in this manner will switch you back to your knife.
 
 ### Local practice
 
-`END` will restart the server with a special practice config.
-`p` allows you to toggle nocli*p*, and `\` will clear any thrown utility.
+`p` allows you to toggle `noclip`, and `\` will perform `clear_util`.
