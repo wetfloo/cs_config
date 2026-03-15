@@ -30,6 +30,20 @@ Make sure to add the following to the game's launch options:
 
 ### Useful commands
 
+#### Toggle commands
+
+There are three versions of each *toggle command*:
+`on`, `off` and `toggle`. For example, for `voice_` command prefix
+there are `voice_on`, `voice_off` and `voice_toggle`.
+
+| Command              | Explanation                                             | Default value |
+| -------------------- | ------------------------------------------------------- | ------------- |
+| `voice_*`            | Controls voice state                                    | `on`          |
+| `music_*`            | Controls music state                                    | `on`          |
+| `volume_*`           | Controls master volume state                            | `on`          |
+
+#### Other commands
+
 | Command             | Explanation                                                              |
 | ------------------- | ------------------------------------------------------------------------ |
 | `valve`             | Sets network settings to be suitable for official Valve servers          |
@@ -40,7 +54,6 @@ Make sure to add the following to the game's launch options:
 | `reexec`            | Reload the current `autoexec.cfg`, pulling all the changes into the game |
 | `practice`          | Will start a game with `sv_cheats` set to `1`, without zombies or bots   |
 | `disc`              | Disconnect & reload current config                                       |
-| `voice_toggle`      | Voice chat toggle, by default it's off                                   |
 | `spraylogo`         | Spray logo                                                               |
 | `flashlight_toggle` | Toggles flashlight                                                       |
 
