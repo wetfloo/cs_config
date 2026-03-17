@@ -38,7 +38,7 @@ there are `voice_on`, `voice_off` and `voice_toggle`.
 
 | Command              | Explanation                                             | Default value |
 | -------------------- | ------------------------------------------------------- | ------------- |
-| `voice_*`            | Controls voice state                                    | `on`          |
+| `voice_*`            | Controls voice state                                    | `off`         |
 | `music_*`            | Controls music state                                    | `on`          |
 | `volume_*`           | Controls master volume state                            | `on`          |
 
