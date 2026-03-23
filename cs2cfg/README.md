@@ -41,14 +41,15 @@ There are three versions of each *toggle command*:
 `on`, `off` and `toggle`. For example, for `voice_` command prefix
 there are `voice_on`, `voice_off` and `voice_toggle`.
 
-| Command              | Explanation                                             | Default value |
-| -------------------- | ------------------------------------------------------- | ------------- |
-| `voice_*`            | Controls voice state                                    | `off`         |
-| `music_*`            | Controls music state                                    | `on`          |
-| `volume_*`           | Controls master volume state                            | `on`          |
-| `crosshair_recoil_*` | Controls if the crosshair should follow recoil or not   | `off`         |
-| `crosshair_util_*`   | Lineup crosshair. [Explanation](#lineup-crosshair)      | `off`         |
-| `desub_*`            | Performs de-subticking                                  | `off`         |
+| Command              | Explanation                                                        | Default value |
+| -------------------- | ------------------------------------------------------------------ | ------------- |
+| `voice_*`            | Controls voice state                                               | `off`         |
+| `music_*`            | Controls music state                                               | `on`          |
+| `volume_*`           | Controls master volume state                                       | `on`          |
+| `sndbg_*`            | Controls if the game will continue playing sound when not in focus | `on`          |
+| `crosshair_recoil_*` | Controls if the crosshair should follow recoil or not              | `off`         |
+| `crosshair_util_*`   | Lineup crosshair. [Explanation](<#lineup-crosshair>)               | `off`         |
+| `desub_*`            | Performs de-subticking                                             | `off`         |
 
 #### Other commands
 
