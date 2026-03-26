@@ -7,7 +7,7 @@ and [TSE](https://store.steampowered.com/app/41060/Serious_Sam_Classic_The_Secon
 Download both, so that *TFE* can be mounted to *TSE*.
 Do not run the games yet!
 
-Get the [Classics Patch](Serious Sam Classics: The Second Encounter),
+Get the [Classics Patch](https://github.com/SamClassicPatch/SuperProject/releases/latest),
 install it for *TSE*. Next, take everything inside the `dump/` directory,
 and copy it to the *TSE* installation, replacing any conflicting files.
 
