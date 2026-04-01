@@ -21,7 +21,7 @@ mklink /D "%L4D2FOLDER%\left4dead2\cfg\l4d2cfg" "%CSCONFIGFOLDER%\l4d2cfg"
 Make sure to add the following to the game's launch options:
 
 ```
-+exec l4d2cfg/autoexec.cfg
++exec l4d2cfg/autoexec.cfg -novid
 ```
 
 `-novid` can be used to skip the game's intro cinematics.
