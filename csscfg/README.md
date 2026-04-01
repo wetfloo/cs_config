@@ -1,0 +1,87 @@
+## CSS installation
+
+Follow the [previous installation instructions.](../README.md)
+
+Find your CSS installation directory.
+For example, mine is
+`C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source`.
+
+Now, set the environment variable to match that directory:
+
+```bat
+set CSSFOLDER=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source
+```
+
+Link the repo's config directory to game's directory:
+
+```bat
+mklink /D "%CSSFOLDER%\cstrike\cfg\csscfg" "%CSCONFIGFOLDER%\csscfg"
+```
+
+Make sure to add the following to the game's launch options:
+
+```
++exec csscfg/autoexec.cfg -novid
+```
+
+`-novid` can be used to skip the game's intro cinematics.
+
+## Tips and tricks
+
+### Useful commands
+
+#### Toggle commands
+
+There are three versions of each *toggle command*:
+`on`, `off` and `toggle`. For example, for `voice_` command prefix
+there are `voice_on`, `voice_off` and `voice_toggle`.
+
+| Command    | Explanation                  | Default value |
+| ---------- | ---------------------------- | ------------- |
+| `voice_*`  | Controls voice state         | `off`         |
+| `music_*`  | Controls music state         | `on`          |
+| `volume_*` | Controls master volume state | `on`          |
+
+#### Other commands
+
+Just your normal everyday commands that you might want to consider.
+
+| Command         | Explanation                                                                    |
+| --------------- | ------------------------------------------------------------------------------ |
+| `reexec`        | Reload the current `autoexec.cfg`, pulling all the changes into the game       |
+| `disc`          | Disconnect & reload current config                                             |
+| `practice`      | Restart the server with `sv_cheats` set to `true`, and other helpful settings  |
+| `clear_util`    | Removes all the utility from the map                                           |
+
+### Quick buy
+
+All the binds below are mapped to the numpad, unless specified otherwise.
+
+| Key                         | Buy                                              |
+| --------------------------- | ------------------------------------------------ |
+| `1`                         | Default rifle (M4A4/AK47)                        |
+| `2`                         | Force buy rifle (FAMAS/Galil AR)                 |
+| `3`                         | Force buy SMG (MP9/MAC-10)                       |
+| `9`                         | Smoke, HE, Molotov, Flashbang x2 (in that order) |
+| `0`                         | Defuse kits                                      |
+| `-`                         | Kevlar vest, **no helmet**                       |
+| `+`                         | Kevlar vest, **with helmet**                     |
+| `F3` (**not a numpad key**) | Autobuy (controlled by `cl_autobuy`, *modified*) |
+| `DEL`(**not a numpad key**) | Sell back all (that's possible to sell)          |
+
+### Lineup crosshair
+
+By default, `q` toggles radar zoom; however, when holding down
+**left** and/or **right** mouse button(s) with a grenade equipped,
+you can press `q` to toggle lineup crosshair.
+This crosshair will only be active
+until you release the buttons mentioned above.
+
+### Quick-drop the bomb
+
+Press `j` to drop the bomb and notify your teammates with a text message.
+Dropping the bomb in this manner will switch you back to your knife.
+
+### Local practice
+
+`p` allows you to toggle `noclip`, and `\` will perform `clear_util`.
