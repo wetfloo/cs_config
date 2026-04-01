@@ -33,6 +33,7 @@ Finally, link it to your games' directory
 (Windows doesn't allow regular users to make symlinks for some reason).
 To do this, **check out each game's specific instructions:**
 - [Counter-Strike 2](cs2cfg/README.md)
+- [Counter-Strike: Source](csscfg/README.md)
 - [Counter-Strike 1.6](cs1cfg/README.md)
 - [Left 4 Dead 2](l4d2cfg/README.md)
 - [Serious Sam Classics](ssclassics_tfe/README.md)
