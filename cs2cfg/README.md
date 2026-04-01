@@ -70,12 +70,8 @@ All the binds below are mapped to the numpad, unless specified otherwise.
 | Key                         | Buy                                              |
 | --------------------------- | ------------------------------------------------ |
 | `1`                         | Default rifle (M4A4/AK47)                        |
-| `2`                         | AWP                                              |
-| `3`                         | Force buy rifle (FAMAS/Galil AR)                 |
-| `4`                         | Force buy SMG (MP9/MAC-10)                       |
-| `6`                         | Desert Eagle                                     |
-| `7`                         | Five-SeveN/Tec-9                                 |
-| `8`                         | Smoke + Flashbang                                |
+| `2`                         | Force buy rifle (FAMAS/Galil AR)                 |
+| `3`                         | Force buy SMG (MP9/MAC-10)                       |
 | `9`                         | Smoke, HE, Molotov, Flashbang x2 (in that order) |
 | `0`                         | Defuse kits                                      |
 | `-`                         | Kevlar vest, **no helmet**                       |
