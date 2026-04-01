@@ -12,19 +12,19 @@ Open `cmd` (`Win+R`, type `cmd`),
 and set the environment variable to access this repo:
 
 ```bat
-set CSCONFIGFOLDER=%userprofile%\cs_config
+set CFGDIR=%userprofile%\cs_config
 ```
 
 Next, either clone this repo with SSH key,
 
 ```bat
-git clone --recurse-submodules git@github.com:wetfloo/cs_config.git "%CSCONFIGFOLDER%"
+git clone --recurse-submodules git@github.com:wetfloo/cs_config.git "%CFGDIR%"
 ```
 
 or with HTTPS,
 
 ```bat
-git clone --recurse-submodules https://github.com/wetfloo/cs_config.git "%CSCONFIGFOLDER%"
+git clone --recurse-submodules https://github.com/wetfloo/cs_config.git "%CFGDIR%"
 ```
 
 or just download it and unpack it as outlined above.

@@ -9,13 +9,13 @@ For example, mine is
 Now, set the environment variable to match that directory:
 
 ```bat
-set CS2FOLDER=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
+set CS2DIR=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
 ```
 
 Link the repo's config directory to game's directory:
 
 ```bat
-mklink /D "%CS2FOLDER%\game\csgo\cfg\cs2cfg" "%CSCONFIGFOLDER%\cs2cfg"
+mklink /D "%CS2DIR%\game\csgo\cfg\cs2cfg" "%CFGDIR%\cs2cfg"
 ```
 
 Make sure to add the following to the game's launch options:

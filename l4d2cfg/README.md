@@ -9,13 +9,13 @@ For example, mine is
 Now, set the environment variable to match that directory:
 
 ```bat
-set L4D2FOLDER=C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2
+set L4D2DIR=C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2
 ```
 
 Link the repo's config directory to game's directory:
 
 ```bat
-mklink /D "%L4D2FOLDER%\left4dead2\cfg\l4d2cfg" "%CSCONFIGFOLDER%\l4d2cfg"
+mklink /D "%L4D2DIR%\left4dead2\cfg\l4d2cfg" "%CFGDIR%\l4d2cfg"
 ```
 
 Make sure to add the following to the game's launch options:

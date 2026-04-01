@@ -9,13 +9,13 @@ For example, mine is
 Now, set the environment variable to match that directory:
 
 ```bat
-set CS1FOLDER=C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike
+set CS1DIR=C:\Program Files (x86)\Steam\steamapps\common\Half-Life\cstrike
 ```
 
 Link the repo's config directory to game's directory:
 
 ```bat
-mklink /D "%CS1FOLDER%\cs1cfg" "%CSCONFIGFOLDER%\cs1cfg"
+mklink /D "%CS1DIR%\cs1cfg" "%CFGDIR%\cs1cfg"
 ```
 
 Make sure to add the following to the game's launch options:

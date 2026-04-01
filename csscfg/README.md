@@ -9,13 +9,13 @@ For example, mine is
 Now, set the environment variable to match that directory:
 
 ```bat
-set CSSFOLDER=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source
+set CSSDIR=C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source
 ```
 
 Link the repo's config directory to game's directory:
 
 ```bat
-mklink /D "%CSSFOLDER%\cstrike\cfg\csscfg" "%CSCONFIGFOLDER%\csscfg"
+mklink /D "%CSSDIR%\cstrike\cfg\csscfg" "%CFGDIR%\csscfg"
 ```
 
 Make sure to add the following to the game's launch options:
