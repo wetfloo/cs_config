@@ -13,3 +13,5 @@ and copy it to the *TSE* installation, replacing any conflicting files.
 
 Select *Player 0* in order to use my controls and configs.
 Graphics and other settings should be applied automatically.
+
+Optionally, you might want to set `Scripts/PersistentSymbols.ini` to *Read-Only*.
