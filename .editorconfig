@@ -8,5 +8,5 @@ indent_style = tab
 tab_width = 4
 trim_trailing_characters = true
 
-[*.{cfg,bat,ini,ctl}]
+[*.{cfg,bat,ini,ctl,ltx}]
 end_of_line = crlf
