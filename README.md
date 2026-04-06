@@ -37,3 +37,17 @@ To do this, **check out each game's specific instructions:**
 - [Counter-Strike 1.6](cs1cfg/README.md)
 - [Left 4 Dead 2](l4d2cfg/README.md)
 - [Serious Sam Classics](ssclassics_tfe/README.md)
+
+## Tips & tricks
+
+### List of mouse sens for games
+
+Below I've compiled a list of mouse sens within games I like to play.
+I really like having consistency across games in this regard
+
+| Game                           | Sensitivity | DPI    | Notes                                                                                                           |
+| ------------------------------ | ----------- | ------ | --------------------------------------------------------------------------------------------------------------- |
+| Any Source/Source 2 game       | `0.25`      | `3200` | Assuming `m_pitch` and `m_yaw` are both set to 0.022 (the default value)                                        |
+| Any idTech game                | `0.25`      | `3200` | Assuming `m_pitch` and `m_yaw` are both set to 0.022 (the default value)                                        |
+| Serious Sam Classics (TFE/TSE) | `0.25`      | `3200` | Player sensitivity set to 50%, mouse acceleration **OFF**, smoothing **OFF**. Set using `inp_fMouseSensitivity` |
+| Devil Daggers                  | `0.16`      | `3200` |                                                                                                                 |
