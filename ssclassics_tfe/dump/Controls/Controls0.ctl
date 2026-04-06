@@ -85,7 +85,7 @@ Button
 Button
  Name: TTRS Fire
  Key1: Mouse Button 1
- Key2: Left Control
+ Key2: None
  Pressed:  ctl_bFire = 1;
  Released: ctl_bFire = 0;
 Button
