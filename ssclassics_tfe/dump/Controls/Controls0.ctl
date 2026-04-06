@@ -231,4 +231,4 @@ Axis "view l/r" "None" 50 0 NotInverted Absolute NotSmooth
 Axis "view banking" "None" 50 0 NotInverted Absolute NotSmooth
 GlobalDontInvertLook
 GlobalDontSmoothAxes
-GlobalSensitivity 2
+GlobalSensitivity 50
