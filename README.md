@@ -49,5 +49,5 @@ I really like having consistency across games in this regard
 | ------------------------------ | ----------- | ------ | --------------------------------------------------------------------------------------------------------------- |
 | Any Source/Source 2 game       | `0.25`      | `3200` | Assuming `m_pitch` and `m_yaw` are both set to 0.022 (the default value)                                        |
 | Any idTech game                | `0.25`      | `3200` | Assuming `m_pitch` and `m_yaw` are both set to 0.022 (the default value)                                        |
-| Serious Sam Classics (TFE/TSE) | `0.25`      | `3200` | Player sensitivity set to 50%, mouse acceleration **OFF**, smoothing **OFF**. Set using `inp_fMouseSensitivity` |
+| Serious Sam Classics (TFE/TSE) | `0.2`       | `3200` | Player sensitivity set to 50%, mouse acceleration **OFF**, smoothing **OFF**. Set using `inp_fMouseSensitivity` |
 | Devil Daggers                  | `0.16`      | `3200` |                                                                                                                 |
