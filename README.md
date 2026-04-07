@@ -1,3 +1,17 @@
+## About this repository
+
+This is a compilation of all my config files for different games,
+originally started as a small `autoexec.cfg` for CS2.
+
+The problem I often had is that if I want to replay or finish something,
+especially something old that doesn't have Steam Cloud support,
+I'd have to spend a lot of time dialing in the exact settings I want.
+By the time I'm done with configuration, I'm already over it.
+
+I didn't want to spend time configuring and re-configuring my games anymore.
+This repository aims to be a one-stop place for configs and guides
+for every game I'd like to (re)play.
+
 ## Installation
 
 **You'll need `git` to do this** (you can get it [here](https://git-scm.com/)).
