@@ -17,5 +17,5 @@ and then linking the new one:
 
 ```bat
 del "%DDCFGDIR%\config"
-mklink "%DDCFGDIR%\config" "%CFGDIR\DevilDaggers\config"
+mklink "%DDCFGDIR%\config" "%CFGDIR%\DevilDaggers\config"
 ```
