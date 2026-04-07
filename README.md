@@ -50,7 +50,7 @@ To do this, **check out each game's specific instructions:**
 - [Counter-Strike: Source](csscfg/README.md)
 - [Counter-Strike 1.6](cs1cfg/README.md)
 - [Left 4 Dead 2](l4d2cfg/README.md)
-- [Serious Sam Classics](ssclassics_tfe/README.md)
+- [Serious Sam Classics](ssclassics/README.md)
 
 ## Tips & tricks
 

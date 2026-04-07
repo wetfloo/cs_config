@@ -22,9 +22,9 @@ then will link the new directory as if it were game's.
 No files in this repo shall be overwritten.
 
 ```bat
-robocopy "%SSTSEDIR%" "%CFGDIR%\ssclassics_tfe\dump" * /E /XC /XN /XO /MOVE
+robocopy "%SSTSEDIR%" "%CFGDIR%\ssclassics\dump" * /E /XC /XN /XO /MOVE
 rmdir /s /q "%SSTSEDIR%"
-mklink /D "%SSTSEDIR%" "%CFGDIR%\ssclassics_tfe\dump"
+mklink /D "%SSTSEDIR%" "%CFGDIR%\ssclassics\dump"
 ```
 
 Get the [Classics Patch](https://github.com/SamClassicPatch/SuperProject/releases/latest),
