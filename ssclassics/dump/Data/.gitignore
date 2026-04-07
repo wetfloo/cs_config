@@ -1,0 +1,6 @@
+/*.*
+/ClassicsPatch/*
+/Defaults/*
+/Var/*
+!/.gitignore
+!/ClassicsPatch/Config.ini

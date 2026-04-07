@@ -13,7 +13,6 @@
 /*.*
 
 !/.gitignore
-!/Data/ClassicsPatch/Config.ini
 !/Players/Player*.plr
 !/Players/Player*.plr.guid
 !/Scripts/PersistentSymbols.ini
