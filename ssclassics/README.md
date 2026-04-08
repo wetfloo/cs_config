@@ -7,6 +7,9 @@ and [TSE](https://store.steampowered.com/app/41060/Serious_Sam_Classic_The_Secon
 Download both, so that *TFE* can be mounted to *TSE*.
 Do not run the games yet!
 
+Get the [Classics Patch](https://github.com/SamClassicPatch/SuperProject/releases/latest),
+install it for *TSE*.
+
 Find your Serious Sam *TSE* installation directory.
 For example, mine is
 `C:\Program Files (x86)\Steam\steamapps\common\Serious Sam Classic The Second Encounter`.
@@ -26,9 +29,6 @@ robocopy "%SSTSEDIR%" "%CFGDIR%\ssclassics\dump" * /E /XC /XN /XO /MOVE
 rmdir /s /q "%SSTSEDIR%"
 mklink /D "%SSTSEDIR%" "%CFGDIR%\ssclassics\dump"
 ```
-
-Get the [Classics Patch](https://github.com/SamClassicPatch/SuperProject/releases/latest),
-install it for *TSE*.
 
 Select *Player 0* in order to use my controls and configs.
 Graphics and other settings should be applied automatically.
