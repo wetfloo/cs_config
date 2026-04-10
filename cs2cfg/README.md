@@ -65,7 +65,7 @@ Just your normal everyday commands that you might want to consider.
 
 #### Knife spawns
 
-Below are the list of commands that spawn knives.
+Below is the list of commands that spawn knives.
 The names of commands are pretty much self-explanatory.
 
 - `knife_spawn_bayonet`
