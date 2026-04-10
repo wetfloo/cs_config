@@ -63,6 +63,32 @@ Just your normal everyday commands that you might want to consider.
 | `clear_util`    | Removes all the utility from the map                                           |
 | `crosshair_big` | Makes your crosshair big, useful for screenshots                               |
 
+#### Knife spawns
+
+Below are the list of commands that spawn knives.
+The names of commands are pretty much self-explanatory.
+
+- `knife_spawn_bayonet`
+- `knife_spawn_classic`
+- `knife_spawn_flip`
+- `knife_spawn_gut`
+- `knife_spawn_karambit`
+- `knife_spawn_m9`
+- `knife_spawn_huntsman`
+- `knife_spawn_falchion`
+- `knife_spawn_bowie`
+- `knife_spawn_butterfly`
+- `knife_spawn_shadowdaggers`
+- `knife_spawn_paracord`
+- `knife_spawn_survival`
+- `knife_spawn_ursus`
+- `knife_spawn_navaja`
+- `knife_spawn_nomad`
+- `knife_spawn_stiletto`
+- `knife_spawn_talon`
+- `knife_spawn_default`
+- `knife_spawn_skeleton`
+
 ### Quick buy
 
 All the binds below are mapped to the numpad, unless specified otherwise.
