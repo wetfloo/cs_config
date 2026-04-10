@@ -89,6 +89,18 @@ The names of commands are pretty much self-explanatory.
 - `knife_spawn_default`
 - `knife_spawn_skeleton`
 
+#### Fun commands
+
+Some commands to have fun with on a local server.
+
+| Command            | Explanation                                              |
+| ------------------ | -------------------------------------------------------- |
+| `fun_blocks`       | Allows you to build using blocks, just like in Minecraft |
+| `fun_car`          | Spawns a driveable car                                   |
+| `fun_dancing_prop` | Spawns dancing furniture                                 |
+| `fun_decoy`        | Turns decoys into explosive rockets                      |
+| `fun_robot`        | Spawns a robot that can be either friendly or hostile    |
+
 ### Quick buy
 
 All the binds below are mapped to the numpad, unless specified otherwise.
