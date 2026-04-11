@@ -49,7 +49,6 @@ there are `voice_on`, `voice_off` and `voice_toggle`.
 | `sndbg_*`            | Controls if the game will continue playing sound when not in focus | `on`          |
 | `crosshair_recoil_*` | Controls if the crosshair should follow recoil or not              | `off`         |
 | `crosshair_util_*`   | Lineup crosshair. [Explanation](<#lineup-crosshair>)               | `off`         |
-| `desub_*`            | Performs de-subticking                                             | `off`         |
 
 #### Other commands
 

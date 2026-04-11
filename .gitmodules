@@ -1,3 +1,0 @@
-[submodule "cs2cfg/vendor/desubtick_config"]
-	path = cs2cfg/vendor/desubtick_config
-	url = git@github.com:wetfloo/desubtick_config.git
