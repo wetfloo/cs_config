@@ -92,13 +92,14 @@ The names of commands are pretty much self-explanatory.
 
 Some commands to have fun with on a local server.
 
-| Command            | Explanation                                              |
-| ------------------ | -------------------------------------------------------- |
-| `fun_blocks`       | Allows you to build using blocks, just like in Minecraft |
-| `fun_car`          | Spawns a driveable car                                   |
-| `fun_dancing_prop` | Spawns dancing furniture                                 |
-| `fun_decoy`        | Turns decoys into explosive rockets                      |
-| `fun_robot`        | Spawns a robot that can be either friendly or hostile    |
+| Command                     | Explanation                                              |
+| --------------------------- | -------------------------------------------------------- |
+| `fun_blocks`                | Allows you to build using blocks, just like in Minecraft |
+| `fun_car`                   | Spawns a driveable car                                   |
+| `fun_dancing_prop`          | Spawns dancing furniture                                 |
+| `fun_decoy`                 | Turns decoys into explosive rockets                      |
+| `fun_robot`                 | Spawns a robot that can be either friendly or hostile    |
+| `arsenal_old`/`arsenal_new` | Make weapon models old (CS:GO) or new (CS2)              |
 
 ### Quick buy
 
