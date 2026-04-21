@@ -18,8 +18,9 @@ Link the repo's config directory to game's directory:
 mklink /D "%CS1DIR%\cs1cfg" "%CFGDIR%\cs1cfg"
 ```
 
-Make sure to add the following to the game's launch options:
+Make sure to add the following to the game's launch options
+(some options here added to play 4:3 stretched correctly):
 
 ```
-+exec cs1cfg/autoexec.cfg
++exec cs1cfg/autoexec.cfg -gl -full -stretchaspect
 ```
