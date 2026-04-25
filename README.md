@@ -59,9 +59,9 @@ To do this, **check out each game's specific instructions:**
 Below I've compiled a list of mouse sens within games I like to play.
 I really like having consistency across games in this regard
 
-| Game                           | Sensitivity | DPI    | Notes                                                                                                                |
-| ------------------------------ | ----------- | ------ | -------------------------------------------------------------------------------------------------------------------- |
-| Any Source/Source 2 game       | `0.45`      | `1600` | Assuming `m_pitch` and `m_yaw` are both set to 0.022 (the default value)                                             |
-| Any idTech game                | `0.45`      | `1600` | Assuming `m_pitch` and `m_yaw` are both set to 0.022 (the default value)                                             |
-| Serious Sam Classics (TFE/TSE) | `0.036`     | `1600` | Player sensitivity set to 50%, mouse acceleration **OFF**, smoothing **OFF**. Set using `inp_fMouseSensitivity` cvar |
-| Devil Daggers                  | `0.029`     | `1600` | Exact parameter value can be set by holding `Ctrl` and clicking on an option                                         |
+| Game                           | Sensitivity | DPI   | Notes                                                                                                                |
+| ------------------------------ | ----------- | ----- | -------------------------------------------------------------------------------------------------------------------- |
+| Any Source/Source 2 game       | `0.9`       | `800` | Assuming `m_pitch` and `m_yaw` are both set to 0.022 (the default value)                                             |
+| Any idTech game                | `0.9`       | `800` | Assuming `m_pitch` and `m_yaw` are both set to 0.022 (the default value)                                             |
+| Serious Sam Classics (TFE/TSE) | `0.072`     | `800` | Player sensitivity set to 50%, mouse acceleration **OFF**, smoothing **OFF**. Set using `inp_fMouseSensitivity` cvar |
+| Devil Daggers                  | `0.058`     | `800` | Exact parameter value can be set by holding `Ctrl` and clicking on an option                                         |
