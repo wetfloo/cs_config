@@ -41,28 +41,28 @@ There are three versions of each *toggle command*:
 `on`, `off` and `toggle`. For example, for `voice_` command prefix
 there are `voice_on`, `voice_off` and `voice_toggle`.
 
-| Command              | Explanation                                                        | Default value |
-| -------------------- | ------------------------------------------------------------------ | ------------- |
-| `voice_*`            | Controls voice state                                               | `off`         |
-| `music_*`            | Controls music state                                               | `on`          |
-| `volume_*`           | Controls master volume state                                       | `on`          |
-| `sndbg_*`            | Controls if the game will continue playing sound when not in focus | `on`          |
-| `crosshair_recoil_*` | Controls if the crosshair should follow recoil or not              | `off`         |
-| `crosshair_util_*`   | Lineup crosshair. [Explanation](<#lineup-crosshair>)               | `off`         |
+| Command              | Explanation                                                                   | Default value |
+| -------------------- | ----------------------------------------------------------------------------- | ------------- |
+| `voice_*`            | Controls voice state                                                          | `off`         |
+| `music_*`            | Controls music state                                                          | `on`          |
+| `volume_*`           | Controls master volume state                                                  | `on`          |
+| `sndbg_*`            | Controls if the game will continue playing sound when not in focus            | `on`          |
+| `crosshair_recoil_*` | Controls if the crosshair should follow recoil or not                         | `off`         |
+| `crosshair_util_*`   | Lineup crosshair. [Explanation](<#lineup-crosshair>)                          | `off`         |
+| `hand_dyn_*`         | `on` sets the viewmodel hand per-slot, `off` uses the same hand for all slots | `on`          |
 
 #### Other commands
 
 Just your normal everyday commands that you might want to consider.
 
-| Command                              | Explanation                                                                           |
-| ------------------------------------ | ------------------------------------------------------------------------------------- |
-| `reexec`                             | Reload the current `autoexec.cfg`, pulling all the changes into the game              |
-| `disc`                               | Disconnect & reload current config                                                    |
-| `practice`                           | Restart the server with `sv_cheats` set to `true`, and other helpful settings         |
-| `clear_util`                         | Removes all the utility from the map                                                  |
-| `crosshair_big`                      | Makes your crosshair big, useful for screenshots                                      |
-| `inv_hand_dynamic`/`inv_hand_static` | `dynamic` sets the viewmodel hand per-slot, `static` uses the same hand for all slots |
-| `vm_default`/`vm_center`             | Either sets the `default` or `centered` viewmodel                                     |
+| Command                              | Explanation                                                                   |
+| ------------------------------------ | ----------------------------------------------------------------------------- |
+| `reexec`                             | Reload the current `autoexec.cfg`, pulling all the changes into the game      |
+| `disc`                               | Disconnect & reload current config                                            |
+| `practice`                           | Restart the server with `sv_cheats` set to `true`, and other helpful settings |
+| `clear_util`                         | Removes all the utility from the map                                          |
+| `crosshair_big`                      | Makes your crosshair big, useful for screenshots                              |
+| `vm_default`/`vm_center`             | Either sets the `default` or `centered` viewmodel                             |
 
 #### Knife spawns
 
