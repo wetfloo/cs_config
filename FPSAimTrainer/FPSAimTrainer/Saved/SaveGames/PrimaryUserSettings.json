@@ -50,7 +50,7 @@
 		"EIntegerSettingId::AntiAliasing": 2,
 		"EIntegerSettingId::AntiAliasingQuality": 2,
 		"EIntegerSettingId::CloudCover": 0,
-		"EIntegerSettingId::DPI": 3200,
+		"EIntegerSettingId::DPI": 800,
 		"EIntegerSettingId::Effects": 2,
 		"EIntegerSettingId::FILMSCustomAspectX": 16,
 		"EIntegerSettingId::FILMSCustomAspectY": 9,
