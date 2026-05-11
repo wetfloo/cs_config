@@ -86,7 +86,7 @@
 		"EFloatSettingId::CritVolume": 1,
 		"EFloatSettingId::CustomFOVYawMult": 0,
 		"EFloatSettingId::CustomYaw": 0,
-		"EFloatSettingId::DecalTime": 5,
+		"EFloatSettingId::DecalTime": 0,
 		"EFloatSettingId::EnemyFullBright": 0.5,
 		"EFloatSettingId::EnemyGlowUpBody": 3,
 		"EFloatSettingId::EnemyGlowUpBodyOnHit": 1,
