@@ -1,0 +1,63 @@
+{
+	"playlistName": "Valorant RAMP Warmup",
+	"playlistId": 199323,
+	"authorSteamId": "76561198059925027",
+	"authorName": "VT minigod",
+	"scenarioList": [
+		{
+			"scenario_name": "VT BerryTS Valorant",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "VT SmallFlicks Valorant",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "VT MicroShot Valorant",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT VarClick Valorant",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT PeekShot Valorant",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT AntiCentering Valorant",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT ControlStrafes Valorant",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "VT SiniClick Valorant",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "VT Miniphase Valorant",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT FloatingDots Valorant",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT AngleShot Micro Valorant",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT PulseShot Valorant",
+			"play_Count": 1
+		}
+	],
+	"description": "The official Voltaic Valorant \"RAMP\" Warm-up Playlist. Created by VT MINIGOD\r\n\r\nShoutout to @wa11p1per for making this Kovaak's Version into reality.\r\n\r\nJoin our discord for more resources: discord.gg/voltaic",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1698332694,
+	"isPrivate": false
+}

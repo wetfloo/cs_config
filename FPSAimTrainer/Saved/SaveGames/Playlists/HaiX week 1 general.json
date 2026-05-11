@@ -1,0 +1,51 @@
+{
+	"playlistName": "HaiX week 1 general",
+	"playlistId": 283825,
+	"authorSteamId": "76561198269212415",
+	"authorName": "TRAGEDY",
+	"scenarioList": [
+		{
+			"scenario_name": "Centering I 180",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Centering II 180",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Controlsphere Far",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Amare GarfMicroTS",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "1w2ts Pasu Perfected 30% Smaller",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "1w2ts Double-Dash Micro",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "voxTS rAim Easy",
+			"play_Count": 2
+		},
+		{
+			"scenario_name": "Pokeball Frenzy Auto Small 60s",
+			"play_Count": 3
+		},
+		{
+			"scenario_name": "Pasu Angelic",
+			"play_Count": 2
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": false,
+	"hasEdited": false,
+	"shareCode": "",
+	"version": 31,
+	"updated": 1729357561,
+	"isPrivate": false
+}
