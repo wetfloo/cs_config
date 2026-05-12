@@ -60,7 +60,7 @@
 		"EIntegerSettingId::InputLagFrameCount": 0,
 		"EIntegerSettingId::LastAcceptedExperimentsAgreement": 0,
 		"EIntegerSettingId::LowLatencyMode": 1,
-		"EIntegerSettingId::PersistentPlayType": 1,
+		"EIntegerSettingId::PersistentPlayType": 0,
 		"EIntegerSettingId::PitchHitModifier": 0,
 		"EIntegerSettingId::PostProcessing": 3,
 		"EIntegerSettingId::SceneColorFormat": 3,
