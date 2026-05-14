@@ -46,8 +46,7 @@ there are `voice_on`, `voice_off` and `voice_toggle`.
 | `voice_*`            | Controls voice state                                                          | `off`         |
 | `music_*`            | Controls music state                                                          | `on`          |
 | `sound_*`            | Controls master volume state                                                  | `on`          |
-| `crosshair_recoil_*` | Controls if the crosshair should follow recoil or not                         | `off`         |
-| `crosshair_util_*`   | Lineup crosshair. [Explanation](<#lineup-crosshair>)                          | `off`         |
+| `crosshair_recoil_*` | Controls if the crosshair should follow recoil or not                         | `on`          |
 | `hand_dyn_*`         | `on` sets the viewmodel hand per-slot, `off` uses the same hand for all slots | `on`          |
 
 #### Other commands
