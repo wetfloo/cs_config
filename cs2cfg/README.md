@@ -53,14 +53,14 @@ there are `voice_on`, `voice_off` and `voice_toggle`.
 
 Just your normal everyday commands that you might want to consider.
 
-| Command                              | Explanation                                                                   |
-| ------------------------------------ | ----------------------------------------------------------------------------- |
-| `reexec`                             | Reload the current `autoexec.cfg`, pulling all the changes into the game      |
-| `disc`                               | Disconnect & reload current config                                            |
-| `practice`                           | Restart the server with `sv_cheats` set to `true`, and other helpful settings |
-| `clear_util`                         | Removes all the utility from the map                                          |
-| `crosshair_big`                      | Makes your crosshair big, useful for screenshots                              |
-| `vm_default`/`vm_center`             | Either sets the `default` or `centered` viewmodel                             |
+| Command         | Explanation                                                                   |
+| --------------- | ----------------------------------------------------------------------------- |
+| `reexec`        | Reload the current `autoexec.cfg`, pulling all the changes into the game      |
+| `disc`          | Disconnect & reload current config                                            |
+| `practice`      | Restart the server with `sv_cheats` set to `true`, and other helpful settings |
+| `clear_util`    | Removes all the utility from the map                                          |
+| `crosshair_big` | Makes your crosshair big, useful for screenshots                              |
+| `vm_help`       | Shows viewmodel presets                                                       |
 
 #### Knife spawns
 
