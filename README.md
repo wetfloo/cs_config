@@ -16,7 +16,9 @@ for every game I'd like to (re)play.
 
 **You'll need `git` to do this** (you can get it [here](https://git-scm.com/)).
 If you don't want to install it, download this repository,
-unpack it to your home directory (`%userprofile%`) and proceed.
+unpack it to your projects directory
+(`%userprofile%\Projects\` on Windows,
+`"$HOME/Projects/"` on Mac/Linux) and proceed.
 
 You'll need to set the directory where you want to store
 this repository, for example, `%userprofile%\cs_config`.
@@ -26,7 +28,7 @@ Open `cmd` (`Win+R`, type `cmd`),
 and set the environment variable to access this repo:
 
 ```bat
-set CFGDIR=%userprofile%\cs_config
+set CFGDIR=%userprofile%\Projects\cs_config
 ```
 
 Next, either clone this repo with SSH key,
