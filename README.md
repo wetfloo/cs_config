@@ -21,7 +21,7 @@ unpack it to your projects directory
 `"$HOME/Projects/"` on Mac/Linux) and proceed.
 
 You'll need to set the directory where you want to store
-this repository, for example, `%userprofile%\cs_config`.
+this repository, for example, `%userprofile%\Projects\cs_config`.
 
 Open `cmd` (`Win+R`, type `cmd`),
 **preferably as an administrator to make a symlink**
