@@ -21,16 +21,12 @@
     "WindowMaximized": false,
     "WindowBorderless": true,
     "ControllerGlyphs": -1,
-    "DisplayWidth": 2560,
-    "DisplayHeight": 1440,
     "GraphicsQuality": 1,
     "BackgroundEnabled": true,
     "FrameSkipMode": 2,
     "LightingMode": 3,
     "BackgroundParallax": 50,
     "ShowItemText": true,
-    "LastLaunchedVersion": 319,
-    "ClientUUID": null,
     "UseSmartCursorForCommonBlocks": false,
     "UseSmartAxeAfterSmartPickaxe": false,
     "SmartCursorHoldCanReleaseMidUse": false,
@@ -42,10 +38,8 @@
     "MouseShowBuildingGrid": false,
     "AllowUnfocusedInputOnGamepad": false,
     "LockOnPriority": 2,
-    "TitleMusic": "Current",
     "InvisibleCursorForGamepad": true,
     "GamepadDisableInstructionsDisplay": false,
-    "SettingsUnlock_WorldEvil": true,
     "SettingsEnabled_MinersWobble": true,
     "SettingBlockGamepadsEntirely": false,
     "SettingsEnabled_OpaqueBoxBehindTooltips": true,
@@ -66,7 +60,7 @@
         "R": 215,
         "G": 215,
         "B": 215,
-        "A": 47
+        "A": 0
     },
     "QuickLaunch": false,
     "AssetFileWatcherEnabled": true,
@@ -77,7 +71,6 @@
     "Display": "",
     "DisplayScreen": "",
     "ThrottleWhenInactive": true,
-    "UnpinFromCore0": false,
     "DoorAutoOpeningMode": 2,
     "HoverControlMode": 0,
     "DashControlMode": 1,
@@ -95,181 +88,8 @@
     "ShowBossBarHealthText": true,
     "PlayerResourcesSet": "Default",
     "RGBUpdatesPerSecond": 45.0,
-    "UseRazerRGB": true,
-    "RazerColorProfile": {
-        "Keyboard": {
-            "R": 1.0,
-            "G": 0.765,
-            "B": 0.568
-        },
-        "Mouse": {
-            "R": 1.0,
-            "G": 0.765,
-            "B": 0.568
-        },
-        "Keypad": {
-            "R": 1.0,
-            "G": 0.765,
-            "B": 0.568
-        },
-        "Mousepad": {
-            "R": 1.0,
-            "G": 0.765,
-            "B": 0.568
-        },
-        "Headset": {
-            "R": 1.0,
-            "G": 0.765,
-            "B": 0.568
-        },
-        "Generic": {
-            "R": 1.0,
-            "G": 0.765,
-            "B": 0.568
-        },
-        "Virtual": {
-            "R": 1.0,
-            "G": 0.765,
-            "B": 0.568
-        }
-    },
-    "UseCorsairRGB": true,
-    "CorsairColorProfile": {
-        "Keyboard": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Mouse": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Keypad": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Mousepad": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Headset": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Generic": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Virtual": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        }
-    },
-    "UseLogitechRGB": true,
-    "LogitechColorProfile": {
-        "Keyboard": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Mouse": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Keypad": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Mousepad": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Headset": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Generic": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Virtual": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        }
-    },
-    "UseSteelSeriesRGB": true,
-    "SteelSeriesColorProfile": {
-        "Keyboard": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Mouse": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Keypad": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Mousepad": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Headset": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Generic": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        },
-        "Virtual": {
-            "R": 1.0,
-            "G": 1.0,
-            "B": 1.0
-        }
-    },
     "FilterLimit": 16,
     "FilterPriorityThreshold": "VeryLow",
-    "CloudSavingDefault": true,
-    "ResourcePacks": [
-        {
-            "FileName": "2871109853",
-            "Enabled": true,
-            "SortingOrder": 0
-        },
-        {
-            "FileName": "2713338689",
-            "Enabled": true,
-            "SortingOrder": 1
-        },
-        {
-            "FileName": "2440281777",
-            "Enabled": false,
-            "SortingOrder": 0
-        },
-        {
-            "FileName": "2441294550",
-            "Enabled": false,
-            "SortingOrder": 0
-        }
-    ]
+    "CloudSavingDefault": true
 }
+
